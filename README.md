@@ -1,5 +1,5 @@
-# EXCEL-PRACTICE-ANSWERS
-This project summarizes the different calculations using different functions in Excel
+#PRACTICE-ANSWERS
+This project summarizes the different calculations using different functions in Excel as well as other assignments in application of data analytics
 
 "What If" Analysis: Excel's "What If" Analysis tools enable users to explore various scenarios by changing input values in a spreadsheet to see how they affect outcomes. This includes Goal Seek, which finds the input needed to achieve a desired result, and Data Tables, which display multiple results based on different input values.
 
